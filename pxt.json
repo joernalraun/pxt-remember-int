@@ -1,0 +1,21 @@
+{
+    "name": "flash",
+    "version": "0.0.0",
+    "description": "read and write to flash memory",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "flash.ts",
+        "logging.h",
+        "logging.cpp",
+        "ticker.h",
+        "ticker.c",
+        "flashmem.h",
+        "flashmem.cpp",
+        "flash.cpp",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj"
+}
